@@ -57,33 +57,30 @@ wait for updating......
 
 2-2 Books about Linux
 -------------------------------------------------
-\<br /\>
-\<Advanced Programming in Unix\> APUE
+		\<Advanced Programming in Unix\> APUE
 
-\<br /\>
-\<Linux Devices Driver 3rd\> LDD3
+		\<Linux Devices Driver 3rd\> LDD3
 
-\<br /\>
-\<Understanding Kernel\>
+		\<Understanding Kernel\>
 
 
 2-3 Books about algorithm and data structure
 --------------------------------------------------
 
-\<Introduction to algorithm\>MIT的教材
+		\<Introduction to algorithm\>MIT的教材
 
-\<Algorithm\>普林斯顿大学用的教材
+		\<Algorithm\>普林斯顿大学用的教材
 
-\<Data Structure and Algorithm analysis in C\> by Mark Allen weiss
-
-
+		\<Data Structure and Algorithm analysis in C\> by Mark Allen weiss
 
 
-\<linker and loader\>
+
+
+		\<linker and loader\>
 
 http://www.becbapatla.ac.in/cse/naveenv/docs/LL1.pdf
 
-3. Good book which have not nothing with CS:
+3. Good book which have nothing with CS:
 -----------------------------------------------
 \<principle of economic\> mankiw
 
