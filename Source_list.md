@@ -6,22 +6,24 @@ If you have good resource, just update this list for free :)
 We want to build a free source list for someone who can not get message easilly.
 Help others, help yourself.
 
------------------------------Source List------------------------------------
+===========================Source List=========================================
 
 
 1. CS Lab Resource:
 
-update 2014.12.08 by EOF
 ----------------------------------------------------
-Lab for implement a compiler for yourself.
+Lab for implement a compiler for yourself.(EOF)
 http://staff.ustc.edu.cn/~bjhua/courses/compiler/2014/
 ----------------------------------------------------
 
 -----------------------------------------------------
-Lab for CSAPP
+Lab for CSAPP (EOF)
 home site:
+
 http://csapp.cs.cmu.edu/public/1e/labs.html
+
 study notes by EOF:
+
 http://blog.csdn.net/column/details/cs-app.html
 -----------------------------------------------------
 
@@ -36,4 +38,5 @@ http://www.becbapatla.ac.in/cse/naveenv/docs/LL1.pdf
 
 3. Good book which haven't nothing about CS:
 
-mankiw <priciple of economic>
+mankiw \<principle of economic\>
+
