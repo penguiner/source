@@ -92,6 +92,8 @@ http://www.becbapatla.ac.in/cse/naveenv/docs/LL1.pdf
 
 \<数学之美\>
 
+\<人月神话\>
+
 \<out of control\>中文版<失控>
 
 
